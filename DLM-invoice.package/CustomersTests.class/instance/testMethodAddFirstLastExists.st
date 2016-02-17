@@ -1,5 +1,5 @@
 testing
-testAddFirstLastMethodExists
+testMethodAddFirstLastExists
 	"test that method addFirstLast exists"
 	
 	|customers|
