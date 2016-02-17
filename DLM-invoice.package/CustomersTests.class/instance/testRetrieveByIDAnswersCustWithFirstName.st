@@ -5,7 +5,7 @@ testRetrieveByIDAnswersCustWithFirstName
 	| customers id first|
 	customers := Customers new.
 	first := 'Mary'.
-	id := customers addFirst:first Last:'Smith'.
+	id := customers addWithFirst:first Last:'Smith'.
 	customers retrieveByID:id.
 	self assert: [(customers at: id) first = first ]
 			 description:  'first name of retrieved cust does not mach'
