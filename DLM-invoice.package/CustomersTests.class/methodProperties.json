@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testAddWithFirstLastAddsCustToCustomers" : "DaveMcKenzie 2/23/2016 11:55",
 		"testMethodAddFirstLastRenamedAddWithFirstLast" : "DaveMcKenzie 2/17/2016 10:24",
 		"testMethodAddWithFirstLastExists" : "DaveMcKenzie 2/17/2016 10:24",
 		"testRetrieveAllWhenNoCustsAnswersEmptyDict" : "DaveMcKenzie 2/16/2016 23:27",
