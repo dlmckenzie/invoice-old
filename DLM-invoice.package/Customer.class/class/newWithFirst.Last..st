@@ -1,3 +1,4 @@
 as yet unclassified
 newWithFirst: aString Last: aString2 
-	self shouldBeImplemented.
+	"answers new customer"
+	^ self new initializeWithID: self First: aString Last: aString2
