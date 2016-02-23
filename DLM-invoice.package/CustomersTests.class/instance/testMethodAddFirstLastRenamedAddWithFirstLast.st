@@ -6,7 +6,7 @@ testMethodAddFirstLastRenamedAddWithFirstLast
 	customers := Customers new.
 	self deny: [ customers respondsTo: #addFirst:Last: ]
 			description: 'customers addFirst:Last should no longer exist'.
-	self assert: [ customers respondsTo: #addWithFirst:Last: ]
+	self assert: [ customers respondsTo: #newWithFirst:Last: ]
 			description: 'customers addWithFirst:Last does not exist'
 
 
