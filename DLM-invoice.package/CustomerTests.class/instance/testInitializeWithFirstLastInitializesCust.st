@@ -6,6 +6,6 @@ testInitializeWithFirstLastInitializesCust
 	cust := Customer new.
 	first := 'Amy'.
 	last := 'Smith'.
-	cust initializeWithFirst: first last: last.
+	cust initializeWithFirst: first Last: last.
 	self assert: [ (cust first = first) & (cust last = last) ]
 		description: 'cust first or last name not correct'
