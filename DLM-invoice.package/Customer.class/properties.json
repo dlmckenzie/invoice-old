@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "DaveMcKenzie 2/14/2016 09:42",
 	"instvars" : [
-		 ],
+		"first",
+		"last" ],
 	"name" : "Customer",
 	"pools" : [
 		 ],
