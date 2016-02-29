@@ -1,0 +1,3 @@
+private
+generateNewKey
+	self shouldBeImplemented.

@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"generateNewKey" : "DaveMcKenzie 2/29/2016 11:13",
 		"newWithFirst:Last:" : "DaveMcKenzie 2/23/2016 14:15",
 		"retrieveAll" : "DaveMcKenzie 2/11/2016 14:18",
 		"retrieveByID:" : "DaveMcKenzie 2/16/2016 22:25" } }
