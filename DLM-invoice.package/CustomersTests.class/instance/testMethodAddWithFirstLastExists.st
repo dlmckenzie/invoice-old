@@ -4,6 +4,6 @@ testMethodAddWithFirstLastExists
 	
 	|customers|
 	customers := Customers new.
-	self assert: [ customers respondsTo: #newWithFirst:Last: ]
+	self assert: [ customers respondsTo: #addWithFirst:Last: ]
 			description: 'customers addFirst:Last does not exist'
 

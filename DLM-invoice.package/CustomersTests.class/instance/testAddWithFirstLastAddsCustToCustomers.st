@@ -4,7 +4,7 @@ testAddWithFirstLastAddsCustToCustomers
 	
 	| customers |
 	customers := Customers new.
-	customers newWithFirst: 'Lisa' Last:'Smith'.
+	customers addWithFirst: 'Lisa' Last:'Smith'.
 	self assert: [ customers size = 1 ] description: 'cust not added'
 	 	
 
