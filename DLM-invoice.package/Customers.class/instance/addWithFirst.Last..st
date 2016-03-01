@@ -2,9 +2,11 @@ as yet unclassified
 addWithFirst: aString Last: aString2
 	"add customer to myself"
 	
-	| cust |
+	| cust id |
 	cust := Customer newWithFirst:aString Last:aString2.
-	self at: (Customers generateNextID) put: cust.
+	id := Customers generateNextID.
+	self at: id put: cust.
+	^ id
 	
 	
 	

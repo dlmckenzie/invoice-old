@@ -4,6 +4,6 @@ testAddWithFirstLastAnswersCustID
 	
 	| customers result |
 	customers := Customers new.
-	result = customers addWithFirst: 'Joe' Last: 'Smith'. 
-	self assert: [ result isMemberOf Number ] description: 'result is not ID'
+	result := customers addWithFirst: 'Joe' Last: 'Smith'. 
+	self assert: [ result isMemberOf: SmallInteger  ] description: 'result is not ID'
 

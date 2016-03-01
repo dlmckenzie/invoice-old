@@ -1,9 +1,9 @@
 {
 	"class" : {
 		"generateNextID" : "DaveMcKenzie 3/1/2016 10:29",
-		"initialize" : "DaveMcKenzie 3/1/2016 10:16",
+		"initialize" : "DaveMcKenzie 3/1/2016 11:51",
 		"nextID" : "DaveMcKenzie 3/1/2016 10:05" },
 	"instance" : {
-		"addWithFirst:Last:" : "DaveMcKenzie 3/1/2016 10:43",
+		"addWithFirst:Last:" : "DaveMcKenzie 3/1/2016 11:58",
 		"retrieveAll" : "DaveMcKenzie 2/11/2016 14:18",
 		"retrieveByID:" : "DaveMcKenzie 2/16/2016 22:25" } }
