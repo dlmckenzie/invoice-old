@@ -2,5 +2,6 @@ private
 generateNextID
 	"answer the next avail ID"
 	
-	^ nextID + 1
+	nextID := nextID + 1.
+	^ nextID.
 	
