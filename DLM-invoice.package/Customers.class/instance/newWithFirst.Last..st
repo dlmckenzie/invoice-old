@@ -4,7 +4,7 @@ newWithFirst: aString Last: aString2
 	
 	| cust |
 	cust := Customer newWithFirst:aString Last:aString2.
-	self at: (self generateNewKey) put: cust.
+	self at: (Customer generateNextID) put: cust.
 	
 	
 	

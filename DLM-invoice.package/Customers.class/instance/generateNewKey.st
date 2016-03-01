@@ -1,3 +1,0 @@
-private
-generateNewKey
-	self shouldBeImplemented.

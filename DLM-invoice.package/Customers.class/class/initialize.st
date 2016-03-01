@@ -1,7 +1,7 @@
 class initialization
 initialize
-	super initialize
-	"intialize myself"
+
+	"initialize myself"
 	
-	nextID: 0
-	
+	super initialize.
+	nextID := 0.	

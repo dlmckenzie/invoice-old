@@ -1,3 +1,5 @@
-accessing
+private
 nextID
-	^ nextID
+	"use for testing only"
+
+	^ nextID	

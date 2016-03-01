@@ -3,8 +3,8 @@
 		 },
 	"instance" : {
 		"testAddWithFirstLastAddsCustToCustomers" : "DaveMcKenzie 2/23/2016 14:15",
-		"testGenerateNewKeySetsNextIdTo1OnIntialRun" : "DaveMcKenzie 2/29/2016 11:42",
-		"testInitializeSetsNextIDto0" : "DaveMcKenzie 3/1/2016 09:05",
+		"testGenerateNewKeySetsNextIdTo1OnIntialRun" : "DaveMcKenzie 3/1/2016 10:00",
+		"testInitializeSetsNextIDto0" : "DaveMcKenzie 3/1/2016 10:16",
 		"testMethodAddFirstLastRenamedAddWithFirstLast" : "DaveMcKenzie 2/23/2016 14:15",
 		"testMethodAddWithFirstLastExists" : "DaveMcKenzie 2/23/2016 14:15",
 		"testRetrieveAllWhenNoCustsAnswersEmptyDict" : "DaveMcKenzie 2/16/2016 23:27",
