@@ -1,5 +1,5 @@
 testing
-testAddWithFirstLastThrowsExceptionOnNilLastName
+testAddWithFirstLastRaisesErrorOnNilLastName
 	"last name is required"
 
 	| customers |
