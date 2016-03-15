@@ -1,5 +1,5 @@
 testing
-testInitializeWithFirstLastThrowsExceptionOnNIlLastName
+testInitializeWithFirstLastRaisesErrorOnNIlLastName
 	"test that exeception is thrown on nil last name"
 
 	| customer |
