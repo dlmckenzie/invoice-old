@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testAddCustFirstLastAssignsUniqueID" : "DaveMcKenzie 3/15/2016 09:43",
 		"testAddWithFirstLastAddsCustToCustomers" : "DaveMcKenzie 3/1/2016 10:38",
 		"testAddWithFirstLastAnswersCustID" : "DaveMcKenzie 3/1/2016 11:57",
 		"testAddWithFirstLastIncreasesDictSizeBy1" : "DaveMcKenzie 3/10/2016 10:17",
