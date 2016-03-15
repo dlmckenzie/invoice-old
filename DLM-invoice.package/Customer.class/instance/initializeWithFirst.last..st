@@ -4,3 +4,4 @@ initializeWithFirst: aString Last: aString2
 	
 	first := aString.
 	last := aString2.
+

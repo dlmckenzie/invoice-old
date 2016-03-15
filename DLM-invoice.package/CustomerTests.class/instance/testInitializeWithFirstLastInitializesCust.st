@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testInitializeWithFirstLastInitializesCust
 	"answers customer with first and last name"
 

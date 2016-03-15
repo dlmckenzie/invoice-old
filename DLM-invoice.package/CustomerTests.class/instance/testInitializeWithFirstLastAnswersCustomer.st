@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testInitializeWithFirstLastAnswersCustomer
 	"Test that method answers with a customer"
 

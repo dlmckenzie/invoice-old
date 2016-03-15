@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testNewWithFirstLastCreatesCust
 	"test that new Customer get created with first and last name"
 
