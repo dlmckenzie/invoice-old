@@ -4,6 +4,7 @@
 	"instance" : {
 		"testInitializeWithFirstLastAnswersCustomer" : "DaveMcKenzie 3/2/2016 08:48",
 		"testInitializeWithFirstLastInitializesCust" : "DaveMcKenzie 2/23/2016 15:10",
+		"testInitializeWithFirstLastRaisesErrorOnEmptyLastName" : "DaveMcKenzie 3/15/2016 15:22",
 		"testInitializeWithFirstLastRaisesErrorOnNIlLastName" : "DaveMcKenzie 3/15/2016 15:04",
 		"testMethodTestInitializeWithFirstLastThrowsExceptionOnNilLastNameRenamed" : "DaveMcKenzie 3/15/2016 15:06",
 		"testNewWithFirstLastCreatesCust" : "DaveMcKenzie 3/1/2016 10:39" } }
