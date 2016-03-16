@@ -11,6 +11,7 @@
 		"testAddWithFirstLastRaisesErrorOnZeroLengthLastName" : "DaveMcKenzie 3/15/2016 15:13",
 		"testDeleteDecreasesCustomersSizeBy1" : "DaveMcKenzie 3/15/2016 23:40",
 		"testDeleteRemovesCust" : "DaveMcKenzie 3/16/2016 00:16",
+		"testDeleteWithInvalidIDRaisesError" : "DaveMcKenzie 3/16/2016 00:55",
 		"testDeletedCustIDNotReused" : "DaveMcKenzie 3/16/2016 00:39",
 		"testGenerateNewKeyIncrementsBy1" : "DaveMcKenzie 3/1/2016 10:21",
 		"testGenerateNewKeySetsNextIdTo1OnIntialRun" : "DaveMcKenzie 3/1/2016 10:00",
