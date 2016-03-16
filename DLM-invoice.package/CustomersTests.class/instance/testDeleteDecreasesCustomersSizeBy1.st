@@ -3,7 +3,6 @@ testDeleteDecreasesCustomersSizeBy1
 	"Test that deleting customer reduces # of customers by 1"
 	
 	| customers id before after |
-
 	customers := Customers new.
 	customers addWithFirst: 'John' Last: 'Smith'.
 	id := customers addWithFirst: 'Amy' Last: 'Sanders'.
