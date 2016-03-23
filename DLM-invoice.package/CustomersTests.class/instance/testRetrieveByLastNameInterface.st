@@ -7,7 +7,7 @@ testRetrieveByLastNameInterface
 		description: 'method defined with incorrect number of parameters'. 
 		
 	customers := Customers new.
-	self assert: [ (customers retrieveByLastName: 'Smith') isMemberOf: Dictionary   ]	
+	self assert: [ (customers retrieveByLastName: 'Smith') isMemberOf: Customers ]	
 		description: 'method did not answer with dictionary'
 
 	
