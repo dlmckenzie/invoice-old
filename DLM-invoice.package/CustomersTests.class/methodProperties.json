@@ -27,4 +27,5 @@
 		"testRetrieveByIDRaisesErrorOnNoMatch" : "DaveMcKenzie 2/16/2016 23:15",
 		"testRetrieveByLastNameExists" : "DaveMcKenzie 3/22/2016 22:38",
 		"testRetrieveByLastNameInterface" : "DaveMcKenzie 3/23/2016 12:10",
-		"testRetrieveByLastNameWorksOnFullStringMatch" : "DaveMcKenzie 3/23/2016 12:46" } }
+		"testRetrieveByLastNameWorksOnFullStringMatch" : "DaveMcKenzie 3/23/2016 12:46",
+		"testRetrieveByLastNameWorksOnNoMatch" : "DaveMcKenzie 3/23/2016 13:09" } }
