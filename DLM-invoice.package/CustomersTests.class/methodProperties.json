@@ -24,4 +24,5 @@
 		"testRetrieveByIDAnswersCustOnMatch" : "DaveMcKenzie 2/16/2016 23:04",
 		"testRetrieveByIDAnswersCustWithFirstName" : "DaveMcKenzie 3/1/2016 12:01",
 		"testRetrieveByIDAnswersCustWithLastName" : "DaveMcKenzie 3/1/2016 16:15",
-		"testRetrieveByIDRaisesErrorOnNoMatch" : "DaveMcKenzie 2/16/2016 23:15" } }
+		"testRetrieveByIDRaisesErrorOnNoMatch" : "DaveMcKenzie 2/16/2016 23:15",
+		"testRetrieveByLastNameExists" : "DaveMcKenzie 3/22/2016 22:16" } }
