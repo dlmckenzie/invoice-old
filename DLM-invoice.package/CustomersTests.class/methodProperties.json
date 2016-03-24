@@ -28,7 +28,7 @@
 		"testRetrieveByLastNameExists" : "DaveMcKenzie 3/22/2016 22:38",
 		"testRetrieveByLastNameIgnoresCase" : "DaveMcKenzie 3/23/2016 17:33",
 		"testRetrieveByLastNameInterface" : "DaveMcKenzie 3/23/2016 12:10",
-		"testRetrieveByLastNameRaisesErrorOnEmptySearchString" : "DaveMcKenzie 3/24/2016 10:45",
+		"testRetrieveByLastNameRaisesErrorOnEmptySearchString" : "DaveMcKenzie 3/24/2016 11:03",
 		"testRetrieveByLastNameWorksOnFullStringMatch" : "DaveMcKenzie 3/23/2016 12:46",
 		"testRetrieveByLastNameWorksOnNoMatch" : "DaveMcKenzie 3/23/2016 14:25",
 		"testRetrieveByLastNameWorksOnSubstringMatchAtStart" : "DaveMcKenzie 3/23/2016 15:19",
