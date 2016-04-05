@@ -1,3 +1,3 @@
 as yet unclassified
-updateFirstName
+updateFirstName: aString
 	"updates customer's first name"
