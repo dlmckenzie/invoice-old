@@ -35,4 +35,5 @@
 		"testRetrieveByLastNameWorksOnSubstringMatchAtStart" : "DaveMcKenzie 3/23/2016 15:19",
 		"testRetrieveByLastNameWorksWithMultMatches" : "DaveMcKenzie 3/23/2016 17:19",
 		"testUpdateFirstNameExists" : "DaveMcKenzie 4/5/2016 09:39",
-		"testUpdateFirstNameInterface" : "DaveMcKenzie 4/5/2016 09:36" } }
+		"testUpdateFirstNameInterface" : "DaveMcKenzie 4/5/2016 09:36",
+		"testUpdateFirstNameStandardCase" : "DaveMcKenzie 4/5/2016 10:03" } }
