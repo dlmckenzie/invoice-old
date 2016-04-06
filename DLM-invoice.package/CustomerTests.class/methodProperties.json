@@ -17,6 +17,7 @@
 		"testLastInterface" : "DaveMcKenzie 4/6/2016 14:23",
 		"testLastMethodExists" : "DaveMcKenzie 4/6/2016 14:12",
 		"testLastStandardCase" : "DaveMcKenzie 4/6/2016 14:28",
+		"testLastWithCommaRaisesError" : "DaveMcKenzie 4/6/2016 15:30",
 		"testLastWithEmptyRaisesError" : "DaveMcKenzie 4/6/2016 14:35",
 		"testLastWithLongName" : "DaveMcKenzie 4/6/2016 14:32",
 		"testLastWithNonStringRaisesError" : "DaveMcKenzie 4/6/2016 15:27",
