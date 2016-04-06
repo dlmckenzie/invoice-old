@@ -1,0 +1,15 @@
+testing
+testUpdateFirstStandardCase
+	"method should update customer's first name to that provided"
+	
+	| customer first|
+	
+	first := 'Joe'.
+	customer := Customer newWithFirst: 'Joey' Last: 'Smith'.
+	customer updateFirst: first.
+	self assert: [ customer first = first ] description: 'update of first name failed' 
+
+
+
+
+	
