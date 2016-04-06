@@ -13,6 +13,7 @@
 		"testLastInterface" : "DaveMcKenzie 4/6/2016 14:23",
 		"testLastMethodExists" : "DaveMcKenzie 4/6/2016 14:12",
 		"testLastStandardCase" : "DaveMcKenzie 4/6/2016 14:28",
+		"testLastWithEmptyRaisesError" : "DaveMcKenzie 4/6/2016 14:35",
 		"testLastWithLongName" : "DaveMcKenzie 4/6/2016 14:32",
 		"testMethodTestInitializeWithFirstLastThrowsExceptionOnNilLastNameRenamed" : "DaveMcKenzie 3/15/2016 15:06",
 		"testNewWithFirstLastCreatesCust" : "DaveMcKenzie 3/1/2016 10:39",
