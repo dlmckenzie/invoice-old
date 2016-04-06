@@ -1,5 +1,5 @@
 testing
-testUpdateFirstWithEmptyRaisesError
+testFirstWithEmptyRaisesError
 	"test that error is raised when first name updated to empty string"
 
 	| customer |
