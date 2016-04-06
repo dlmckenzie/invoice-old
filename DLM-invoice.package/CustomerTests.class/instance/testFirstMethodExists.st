@@ -1,5 +1,5 @@
 testing
-testUpdateFirstMethodExists
+testFirstMethodExists
 	"confirm method exists"
 
 	|customer|

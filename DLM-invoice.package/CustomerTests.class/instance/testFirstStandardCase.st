@@ -1,5 +1,5 @@
 testing
-testUpdateFirstStandardCase
+testFirstStandardCase
 	"method should update customer's first name to that provided"
 	
 	| customer first|
