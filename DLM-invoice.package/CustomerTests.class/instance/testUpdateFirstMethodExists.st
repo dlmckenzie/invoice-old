@@ -4,5 +4,5 @@ testUpdateFirstMethodExists
 
 	|customer|
 	customer := Customer new.
-	self assert: [ customer respondsTo: #updateFirst: ]
+	self assert: [ customer respondsTo: #first: ]
 			description: 'method Customer updateFirst: does not exist'

@@ -6,7 +6,7 @@ testUpdateFirstStandardCase
 	
 	first := 'Joe'.
 	customer := Customer newWithFirst: 'Joey' Last: 'Smith'.
-	customer updateFirst: first.
+	customer first: first.
 	self assert: [ customer first = first ] description: 'update of first name failed' 
 
 

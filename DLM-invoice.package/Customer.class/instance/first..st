@@ -1,5 +1,5 @@
 as yet unclassified
-updateFirst: aString
+first: aString
 	"udpate first name"
 	
 	first := aString
