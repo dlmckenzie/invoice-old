@@ -13,6 +13,7 @@
 		"testMethodTestInitializeWithFirstLastThrowsExceptionOnNilLastNameRenamed" : "DaveMcKenzie 3/15/2016 15:06",
 		"testNewWithFirstLastCreatesCust" : "DaveMcKenzie 3/1/2016 10:39",
 		"testUpdateFirstMethodRenamedToFirst" : "DaveMcKenzie 4/6/2016 11:50",
+		"testUpdateFirstWithCommaRaisesError" : "DaveMcKenzie 4/6/2016 13:03",
 		"testUpdateFirstWithEmptyRaisesError" : "DaveMcKenzie 4/6/2016 12:27",
 		"testUpdateFirstWithNonStringRaisesError" : "DaveMcKenzie 4/6/2016 12:34",
-		"testUpdateFirstWithNullRaisesError" : "DaveMcKenzie 4/6/2016 12:14" } }
+		"testUpdateFirstWithNullRaisesError" : "DaveMcKenzie 4/6/2016 12:48" } }
