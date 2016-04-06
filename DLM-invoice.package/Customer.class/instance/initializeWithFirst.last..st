@@ -1,4 +1,4 @@
-as yet unclassified
+instance initialization
 initializeWithFirst: aString Last: aString2 
 	"answer customer initialized with first and last name"
 		((aString2 isNil) or: (aString2 = ''))
