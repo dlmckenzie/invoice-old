@@ -36,4 +36,5 @@
 		"testRetrieveByLastNameWorksWithMultMatches" : "DaveMcKenzie 3/23/2016 17:19",
 		"testUpdateFirstNameExists" : "DaveMcKenzie 4/5/2016 09:39",
 		"testUpdateFirstNameInterface" : "DaveMcKenzie 4/5/2016 09:36",
-		"testUpdateFirstNameStandardCase" : "DaveMcKenzie 4/5/2016 10:03" } }
+		"testUpdateFirstNameMethodRemoved" : "DaveMcKenzie 4/6/2016 08:30",
+		"testUpdateFirstNameStandardCase" : "DaveMcKenzie 4/5/2016 10:36" } }

@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testRetrieveByLastNameIgnoresCase
 	"method should ignore case when performing search"
 

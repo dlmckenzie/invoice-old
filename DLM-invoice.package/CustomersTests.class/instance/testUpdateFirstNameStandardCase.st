@@ -8,7 +8,6 @@ testUpdateFirstNameStandardCase
 	first := 'Joe'.
 	id := customers addWithFirst: 'Joey' Last: 'Smith'.
 	customers updateFirstName: first.
-	"updated := ((customers retrieveByID: id) at: id )first."
 	self assert: [ (((customers retrieveByID: id) at: id )first) = first ]
 		description: 'Update of first name failed' 
 
