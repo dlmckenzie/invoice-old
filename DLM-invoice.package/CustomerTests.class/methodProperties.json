@@ -5,10 +5,12 @@
 		"testFirstInterface" : "DaveMcKenzie 4/6/2016 11:56",
 		"testFirstMethodExists" : "DaveMcKenzie 4/6/2016 11:56",
 		"testFirstStandardCase" : "DaveMcKenzie 4/6/2016 11:57",
+		"testFirstWithLongName" : "DaveMcKenzie 4/6/2016 12:06",
 		"testInitializeWithFirstLastAnswersCustomer" : "DaveMcKenzie 3/2/2016 08:48",
 		"testInitializeWithFirstLastInitializesCust" : "DaveMcKenzie 2/23/2016 15:10",
 		"testInitializeWithFirstLastRaisesErrorOnEmptyLastName" : "DaveMcKenzie 3/15/2016 15:22",
 		"testInitializeWithFirstLastRaisesErrorOnNIlLastName" : "DaveMcKenzie 3/15/2016 15:04",
 		"testMethodTestInitializeWithFirstLastThrowsExceptionOnNilLastNameRenamed" : "DaveMcKenzie 3/15/2016 15:06",
 		"testNewWithFirstLastCreatesCust" : "DaveMcKenzie 3/1/2016 10:39",
-		"testUpdateFirstMethodRenamedToFirst" : "DaveMcKenzie 4/6/2016 11:50" } }
+		"testUpdateFirstMethodRenamedToFirst" : "DaveMcKenzie 4/6/2016 11:50",
+		"testUpdateFirstWithNullRaisesError" : "DaveMcKenzie 4/6/2016 12:14" } }
