@@ -1,5 +1,5 @@
 validation
-firstIsValidForIdentity
+firstIsValidForIdentity: aString
 	"validate first name is valid to identify customer"
 	
 	| result |	
