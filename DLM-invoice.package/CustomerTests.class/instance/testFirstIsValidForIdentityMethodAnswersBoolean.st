@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testFirstIsValidForIdentityMethodAnswersBoolean
 	"test that method answers boolean"
 	
