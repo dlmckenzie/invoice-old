@@ -4,7 +4,7 @@ testFirstIsValidForIdentityMethodAnswersBoolean
 	
 	| customer result |
 	customer := Customer new.
-	result := customer firstIsValidForIdentity. 
+	result := customer firstIsValidForIdentity: customer first. 
 	self assert: [ result isKindOf: Boolean ] 
 		description: 'Method did not answer with Boolean' 
 		

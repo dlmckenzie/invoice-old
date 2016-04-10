@@ -3,9 +3,9 @@ firstIsValidForIdentity: aString
 	"validate first name is valid to identify customer"
 	
 	| result |	
-	(first isString not)
+	(aString isString not)
 		ifTrue: [ result := false]
-		ifFalse:[ ((first isEmptyOrNil) or: (first includesSubstring: ',')) 
+		ifFalse:[ ((aString isEmptyOrNil) or: (aString includesSubstring: ',')) 
 			ifTrue: [ result := false  ]
 			ifFalse: [ result := true  ] ].
 	^ result
