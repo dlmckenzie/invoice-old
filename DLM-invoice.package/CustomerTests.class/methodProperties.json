@@ -9,7 +9,6 @@
 		"testFirstIsValidForIdentityAnswersFalseForNumber" : "DaveMcKenzie 4/10/2016 08:41",
 		"testFirstIsValidForIdentityAnswersFalseIfContainsComma" : "DaveMcKenzie 4/10/2016 09:11",
 		"testFirstIsValidForIdentityAnswersTrueForString" : "DaveMcKenzie 4/9/2016 21:57",
-		"testFirstIsValidForIdentityMethodAcceptsNoArgs" : "DaveMcKenzie 4/9/2016 20:25",
 		"testFirstIsValidForIdentityMethodAnswersBoolean" : "DaveMcKenzie 4/9/2016 20:53",
 		"testFirstIsValidForIdentityMethodExists" : "DaveMcKenzie 4/9/2016 12:23",
 		"testFirstMethodExists" : "DaveMcKenzie 4/6/2016 11:56",
