@@ -4,6 +4,7 @@
 	"instance" : {
 		"testFirstInterface" : "DaveMcKenzie 4/6/2016 11:56",
 		"testFirstIsValidForIdentityMethodAcceptsNoArgs" : "DaveMcKenzie 4/9/2016 20:25",
+		"testFirstIsValidForIdentityMethodAnswersBoolean" : "DaveMcKenzie 4/9/2016 20:35",
 		"testFirstIsValidForIdentityMethodExists" : "DaveMcKenzie 4/9/2016 12:23",
 		"testFirstMethodExists" : "DaveMcKenzie 4/6/2016 11:56",
 		"testFirstStandardCase" : "DaveMcKenzie 4/6/2016 11:57",
