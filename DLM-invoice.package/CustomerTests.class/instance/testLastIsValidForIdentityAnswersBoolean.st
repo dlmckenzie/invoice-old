@@ -4,7 +4,7 @@ testLastIsValidForIdentityAnswersBoolean
 	
 	| customer result |
 	customer := Customer new.
-	result := customer lastIsValidForIdentity: customer first. 
+	result := customer lastIsValidForIdentity: customer last. 
 	self assert: [ result isKindOf: Boolean ] 
 		description: 'Method did not answer with Boolean' 
 		

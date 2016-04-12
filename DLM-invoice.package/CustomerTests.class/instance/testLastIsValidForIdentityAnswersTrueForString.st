@@ -4,7 +4,7 @@ testLastIsValidForIdentityAnswersTrueForString
 	
 	| cust |
 	cust := Customer newWithFirst: 'Joe' Last: 'Smith'.
-	self assert: [ cust lastIsValidForIdentity: cust first ]
+	self assert: [ cust lastIsValidForIdentity: cust last ]
 		description: 'last name should have passed identity validation'
 	 
 	
