@@ -23,6 +23,7 @@
 		"testInitializeWithFirstLastRaisesErrorOnEmptyLastName" : "DaveMcKenzie 3/15/2016 15:22",
 		"testInitializeWithFirstLastRaisesErrorOnNIlLastName" : "DaveMcKenzie 3/15/2016 15:04",
 		"testLastInterface" : "DaveMcKenzie 4/6/2016 14:23",
+		"testLastIsValidForIdentityExists" : "DaveMcKenzie 4/12/2016 09:57",
 		"testLastMethodExists" : "DaveMcKenzie 4/6/2016 14:12",
 		"testLastStandardCase" : "DaveMcKenzie 4/6/2016 14:28",
 		"testLastWithCommaRaisesError" : "DaveMcKenzie 4/6/2016 15:30",
@@ -30,6 +31,6 @@
 		"testLastWithLongName" : "DaveMcKenzie 4/6/2016 14:32",
 		"testLastWithNonStringRaisesError" : "DaveMcKenzie 4/6/2016 15:27",
 		"testLastWithNullRaisesError" : "DaveMcKenzie 4/6/2016 15:24",
-		"testMethodTestInitializeWithFirstLastThrowsExceptionOnNilLastNameRenamed" : "DaveMcKenzie 3/15/2016 15:06",
+		"testMethodTestInitializeWithFirstLastThrowsExceptionOnNilLastNameRenamed" : "DaveMcKenzie 4/12/2016 09:46",
 		"testNewWithFirstLastCreatesCust" : "DaveMcKenzie 3/1/2016 10:39",
 		"testUpdateFirstMethodRenamedToFirst" : "DaveMcKenzie 4/6/2016 11:50" } }
