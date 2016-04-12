@@ -4,8 +4,10 @@ firstIsValidForIdentity: aString
 	
 	| result |	
 	(aString isString not)
-		ifTrue: [ result := false]
-		ifFalse:[ ((aString isEmptyOrNil) or: (aString includesSubstring: ',')) 
+		ifTrue: [(aString isNil)
+			ifTrue: [ result := true ]
+			ifFalse: [ result := false] ]
+		ifFalse:[  (aString includesSubstring: ',') 
 			ifTrue: [ result := false  ]
 			ifFalse: [ result := true  ] ].
 	^ result
