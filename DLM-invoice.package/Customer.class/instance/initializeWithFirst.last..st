@@ -2,8 +2,8 @@ instance initialization
 initializeWithFirst: aString Last: aString2 
 	"answer customer initialized with first and last name"
 	
-	aString2 isEmptyOrNil 
-		ifTrue: [ Error signal: 'last name is required' ]
-		ifFalse: [ first := aString. last := aString2. ]
+	((self lastIsValidForIdentity: aString ) and: (self lastIsValidForIdentity: aString2 ))
+		ifTrue:  [ first := aString. last := aString2. ]
+		ifFalse: [ Error signal: 'invalid name' ]
 	
 
