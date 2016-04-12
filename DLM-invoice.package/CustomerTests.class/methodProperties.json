@@ -14,7 +14,7 @@
 		"testFirstMethodExists" : "DaveMcKenzie 4/6/2016 11:56",
 		"testFirstStandardCase" : "DaveMcKenzie 4/6/2016 11:57",
 		"testFirstWithCommaRaisesError" : "DaveMcKenzie 4/6/2016 15:18",
-		"testFirstWithEmptyRaisesError" : "DaveMcKenzie 4/6/2016 15:19",
+		"testFirstWithEmptyAccepted" : "DaveMcKenzie 4/12/2016 13:19",
 		"testFirstWithLongName" : "DaveMcKenzie 4/6/2016 14:32",
 		"testFirstWithNonStringRaisesError" : "DaveMcKenzie 4/6/2016 15:19",
 		"testFirstWithNullRaisesError" : "DaveMcKenzie 4/6/2016 15:20",
