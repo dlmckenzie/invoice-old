@@ -18,6 +18,7 @@
 		"testFirstWithLongName" : "DaveMcKenzie 4/6/2016 14:32",
 		"testFirstWithNonStringRaisesError" : "DaveMcKenzie 4/6/2016 15:19",
 		"testFirstWithNullAccepted" : "DaveMcKenzie 4/12/2016 13:21",
+		"testInitializeWithFirstLastAcceptsEmptyFirstName" : "DaveMcKenzie 4/12/2016 13:49",
 		"testInitializeWithFirstLastAnswersCustomer" : "DaveMcKenzie 3/2/2016 08:48",
 		"testInitializeWithFirstLastInitializesCust" : "DaveMcKenzie 2/23/2016 15:10",
 		"testInitializeWithFirstLastRaisesErrorOnEmptyLastName" : "DaveMcKenzie 3/15/2016 15:22",
