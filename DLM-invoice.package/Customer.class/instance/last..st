@@ -2,9 +2,8 @@ accessing
 last: aString
 	"update last name"
 	
-(aString isString not)
-		ifTrue: [  Error signal: 'invalid search string'  ]
-		ifFalse:[ ((aString isEmptyOrNil ) or: (aString includesSubstring: ',')) 
-			ifTrue: [  Error signal: 'invalid search string'  ]
-			ifFalse: [ last := aString ] ]
+	(self lastIsValidForIdentity: aString )
+		ifTrue: [ last := aString ]
+		ifFalse: [ Error signal: 'invalid search string' ]
+		
 	
