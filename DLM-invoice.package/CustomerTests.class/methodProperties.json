@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"testClassFirstIsValidForIdentityExists" : "DaveMcKenzie 4/14/2016 08:36",
+		"testClassLastIsValidForIdentityExists" : "DaveMcKenzie 4/14/2016 08:36",
 		"testFirstInterface" : "DaveMcKenzie 4/6/2016 11:56",
 		"testFirstIsValidForIdentityAccepts1arg" : "DaveMcKenzie 4/10/2016 16:54",
 		"testFirstIsValidForIdentityAnswersFalseForNumber" : "DaveMcKenzie 4/12/2016 12:25",
