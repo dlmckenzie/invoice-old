@@ -2,8 +2,6 @@ testing
 testFirstIsValidForIdentityMethodExists
 	"test existance of method"
 	
-	|customer|
-	customer := Customer new.
-	self assert: [ customer respondsTo: #firstIsValidForIdentity: ]
+	self assert: [ Customer respondsTo: #firstIsValidForIdentity: ]
 			description: 'method Customer firstIsValidForIdentity does not exist'
 
