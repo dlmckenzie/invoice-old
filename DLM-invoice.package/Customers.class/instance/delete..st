@@ -1,4 +1,4 @@
-as yet unclassified
+collection ops
 delete: anInteger 
 	"delete customer"
 	

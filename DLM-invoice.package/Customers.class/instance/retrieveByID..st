@@ -1,4 +1,4 @@
-as yet unclassified
+collection ops
 retrieveByID: anInteger 
 	"answer Dictionary with customer that matches ID"
 	| result |

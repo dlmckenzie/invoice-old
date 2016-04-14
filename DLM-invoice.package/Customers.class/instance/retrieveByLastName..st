@@ -1,4 +1,4 @@
-as yet unclassified
+collection ops
 retrieveByLastName: aString
 	"answer Dictionary containing all customers whose last name starts with aString"
 

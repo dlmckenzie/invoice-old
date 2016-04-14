@@ -1,4 +1,4 @@
-as yet unclassified
+collection ops
 addWithFirst: aString Last: aString2
 	"add customer to myself"
 	
