@@ -8,5 +8,5 @@ testRetrieveByIDAnswersCustOnMatch
 	id := 1.
 	customers at: id put: cust.
 	self
-		assert: [ ((customers retrieveByID: id) at: id) = cust]
+		assert: [ (customers retrieveByID: id) = cust]
 		description: 'Answered Cust does not match request'
