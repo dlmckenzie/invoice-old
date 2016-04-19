@@ -4,7 +4,7 @@ testUpdateCustFirstNameWithForIDExists
 	
 	| app |
 	app := App new.
-	self assert: [ app respondsTo: #updateCustFirstNameWith:ForID: ] 
+	self assert: [ app respondsTo: #updateCustFirstWith:ForID: ] 
 		description: 'UpdateCustFirstNameWith:ForID: method does not exist'
 
 	
