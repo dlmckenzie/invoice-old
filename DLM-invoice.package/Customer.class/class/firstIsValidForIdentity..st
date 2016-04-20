@@ -1,13 +1,13 @@
 validation
 firstIsValidForIdentity: aString
-	"validate first name is valid to identify customer"
-	
-	| result |	
-	(aString isString not)
-		ifTrue: [(aString isNil)
-			ifTrue: [ result := true ]
-			ifFalse: [ result := false] ]
-		ifFalse:[  (aString includesSubstring: ',') 
-			ifTrue: [ result := false  ]
-			ifFalse: [ result := true  ] ].
-	^ result
+	"answer true/false as to whether aString is a valid first name"
+
+	aString isNil
+		ifTrue: [ ^ true ]
+		ifFalse: [ 
+			aString isString
+				ifFalse: [ ^ false ]
+				ifTrue: [ 
+					(aString includesSubstring: ',')
+						ifTrue: [ ^ false ]
+						ifFalse: [ ^ true ] ] ]

@@ -1,11 +1,13 @@
 validation
 lastIsValidForIdentity: aString
-	"validate last name is valid to identify customer"
+	"answer true/false as to whether aString is a valid last name"
 	
-	| result |	
-	(aString isString not)
-		ifTrue: [ result := false]
-		ifFalse:[ ((aString isEmptyOrNil) or: (aString includesSubstring: ',')) 
-			ifTrue: [ result := false  ]
-			ifFalse: [ result := true  ] ].
-	^ result
+	aString isString
+		ifFalse: [ ^ false ]
+		ifTrue: [ 
+			aString isEmptyOrNil 
+				ifTrue: [ ^ false ]
+				ifFalse: [ 
+					(aString includesSubstring: ',')
+						ifTrue: [ ^ false ]
+						ifFalse: [ ^ true ] ] ]
