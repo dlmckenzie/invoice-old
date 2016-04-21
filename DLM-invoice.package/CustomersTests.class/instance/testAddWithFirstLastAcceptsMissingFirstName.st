@@ -4,4 +4,4 @@ testAddWithFirstLastAcceptsMissingFirstName
 
 	| customers |
 	customers := Customers new.
-	self shouldnt:  [ customers addWithFirst: nil Last: 'Smith'. ] raise: Error.
+	self shouldnt:  [ customers addWithFirst: '' Last: 'Smith'. ] raise: Error.
