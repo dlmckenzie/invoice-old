@@ -5,6 +5,7 @@
 		"testAddCustWithFirstLastExists" : "DaveMcKenzie 4/14/2016 23:21",
 		"testAppExists" : "DaveMcKenzie 4/14/2016 22:58",
 		"testAppStartExists" : "DaveMcKenzie 4/14/2016 23:06",
-		"testUpdateCustFirstNameWithForIDExists" : "DaveMcKenzie 4/19/2016 11:43",
-		"testUpdateCustLastNameWithForIDExists" : "DaveMcKenzie 4/19/2016 11:47",
+		"testUpdateCustWithFirstAccepts1Arg" : "DaveMcKenzie 4/21/2016 10:06",
+		"testUpdateCustWithFirstExists" : "DaveMcKenzie 4/20/2016 12:54",
+		"testUpdateCustWithLastExists" : "DaveMcKenzie 4/20/2016 12:44",
 		"testViewCustForIDExists" : "DaveMcKenzie 4/17/2016 10:36" } }

@@ -2,6 +2,6 @@ interface - help
 helpCust
 	"prints help intro to Transcript"
 
-	Transcript cr.
-	Transcript show: 'Customers:';cr.
-	Transcript show: '     Add customer  -  addCustWithFirst:Last:'
+	Transcript show: '  Customers:';cr.
+	Transcript show: '     Add  -  addCustWithFirst:Last:';cr.
+	Transcript show: '     Update last name  -  updateCust:WithFirst:';cr.

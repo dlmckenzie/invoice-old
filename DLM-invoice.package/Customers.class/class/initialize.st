@@ -1,4 +1,4 @@
-class initialization
+private
 initialize
 
 	"initialize myself"

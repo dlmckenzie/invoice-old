@@ -1,6 +1,6 @@
 validation
 lastIsValidForIdentity: aString
-	"answer true/false as to whether aString is a valid last name"
+	"validate last name is valid to identify customer"
 	
 	aString isString
 		ifFalse: [ ^ false ]
