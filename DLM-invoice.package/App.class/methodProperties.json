@@ -2,12 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addCustWithFirst:Last:" : "DaveMcKenzie 4/16/2016 07:03",
+		"addCustWithFirst:Last:" : "DaveMcKenzie 4/21/2016 11:11",
+		"executeUpdateOnCustID:WithFirst:" : "DaveMcKenzie 4/21/2016 21:38",
 		"help" : "DaveMcKenzie 4/15/2016 09:52",
 		"help:" : "DaveMcKenzie 4/21/2016 09:59",
 		"helpCust" : "DaveMcKenzie 4/21/2016 09:50",
 		"helpIntro" : "DaveMcKenzie 4/21/2016 09:57",
 		"start" : "DaveMcKenzie 4/15/2016 09:44",
-		"updateCust:WithFirst:" : "DaveMcKenzie 4/20/2016 13:45",
-		"updateCust:WithLast:" : "DaveMcKenzie 4/19/2016 11:47",
-		"viewCustForID:" : "DaveMcKenzie 4/16/2016 10:06" } }
+		"updateCust:WithFirst:" : "DaveMcKenzie 4/21/2016 21:32",
+		"validateFirst:ComparedTo:" : "DaveMcKenzie 4/21/2016 16:43",
+		"validateFirstForIdentity:" : "DaveMcKenzie 4/21/2016 21:34",
+		"validateFirstForUpdate:" : "DaveMcKenzie 4/21/2016 14:39",
+		"viewCustForID:" : "DaveMcKenzie 4/21/2016 17:04" } }
