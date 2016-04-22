@@ -4,8 +4,14 @@ updateCust: anInteger WithFirst: aString
 
 	| cust orig |
 	cust := customers retrieveByID: anInteger.
-	orig := cust first.
-	(self validateFirstForIdentity: aString)
+	cust isNil
 		ifTrue: [ 
-			(self validateFirst: aString ComparedTo: orig)
-				ifTrue: [ self executeUpdateOnCustID: anInteger WithFirst: aString ] ]
+			Transcript
+				show: 'Customer ID ' , anInteger asString , ' does not exist.';
+				cr ]
+		ifFalse: [ 
+			orig := cust first.
+			(self validateFirstForIdentity: aString)
+				ifTrue: [ 
+					(self validateFirst: aString ComparedTo: orig)
+						ifTrue: [ self executeUpdateOnCustID: anInteger WithFirst: aString ] ] ]

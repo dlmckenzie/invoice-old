@@ -4,4 +4,4 @@ testViewCustForIDExists
 
 	| app |
 	app := App new.
-	self assert: [ app respondsTo: #viewCustForID: ] description: 'viewCustForID: method does not exist'
+	self assert: [ app respondsTo: #viewCust: ] description: 'viewCustForID: method does not exist'

@@ -5,7 +5,8 @@
 		"testAddCustWithFirstLastExists" : "DaveMcKenzie 4/14/2016 23:21",
 		"testAppExists" : "DaveMcKenzie 4/14/2016 22:58",
 		"testAppStartExists" : "DaveMcKenzie 4/14/2016 23:06",
-		"testUpdateCustWithFirstAccepts1Arg" : "DaveMcKenzie 4/21/2016 10:06",
+		"testUpdateCustWithFirstAccepts2Args" : "DaveMcKenzie 4/22/2016 00:45",
 		"testUpdateCustWithFirstExists" : "DaveMcKenzie 4/20/2016 12:54",
+		"testUpdateCustWithLastAccepts2Args" : "DaveMcKenzie 4/22/2016 00:45",
 		"testUpdateCustWithLastExists" : "DaveMcKenzie 4/20/2016 12:44",
-		"testViewCustForIDExists" : "DaveMcKenzie 4/17/2016 10:36" } }
+		"testViewCustForIDExists" : "DaveMcKenzie 4/22/2016 10:17" } }
