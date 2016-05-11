@@ -1,4 +1,4 @@
-private
+private - customer
 validateLastForIdentity: aString
 	"validate last name for identity, and Transcript error if problem"
 

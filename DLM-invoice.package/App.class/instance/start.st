@@ -7,4 +7,5 @@ start
   		ifNone: [ Transcript open ].
 	Transcript show: 'Invoicing App Started'; cr.
 	
-	customers := Customers new
+	customers := Customers new.
+	products := Products new.

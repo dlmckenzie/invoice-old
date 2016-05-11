@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"addCustWithFirst:Last:" : "DaveMcKenzie 4/21/2016 11:11",
+		"addProductWithKey:" : "DaveMcKenzie 5/9/2016 11:00",
 		"customers" : "DaveMcKenzie 4/22/2016 10:15",
 		"deleteCust:" : "DaveMcKenzie 4/22/2016 14:29",
 		"executeUpdateOnCustID:WithFirst:" : "DaveMcKenzie 4/21/2016 21:38",
@@ -11,7 +12,7 @@
 		"help:" : "DaveMcKenzie 4/22/2016 12:12",
 		"helpCust" : "DaveMcKenzie 4/22/2016 12:11",
 		"helpIntro" : "DaveMcKenzie 4/21/2016 09:57",
-		"start" : "DaveMcKenzie 4/15/2016 09:44",
+		"start" : "DaveMcKenzie 5/9/2016 10:47",
 		"updateCust:WithFirst:" : "DaveMcKenzie 4/22/2016 10:42",
 		"updateCust:WithLast:" : "DaveMcKenzie 4/22/2016 10:59",
 		"validateFirst:ComparedTo:" : "DaveMcKenzie 4/21/2016 16:43",
