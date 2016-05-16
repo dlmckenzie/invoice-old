@@ -1,5 +1,5 @@
 accesing
-prodName: aString
+updateDescription: aString
 	"update name to aString"
 	
 	(self nameIsValid: aString )

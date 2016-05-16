@@ -1,5 +1,5 @@
 testing
-testKeyIsValidForIdentity_Exists
+testKeyIsValidForIdentityExists
 	"confirm class method exists"
 	
 	self assert: [ Product respondsTo: #keyIsValidForIdentity: ]
