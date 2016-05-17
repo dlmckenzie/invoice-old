@@ -1,4 +1,4 @@
-private
+private - customer
 validateFirst: aString ComparedTo: aString2
 	"validate first new first name is diff from what it replaces, and Transcript error if problem"
 

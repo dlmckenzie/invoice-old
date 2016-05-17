@@ -1,4 +1,4 @@
-private
+private - customer
 executeUpdateOnCustID: anInteger WithLast: aString
 	"execute update and confirm to Transcript"
 
