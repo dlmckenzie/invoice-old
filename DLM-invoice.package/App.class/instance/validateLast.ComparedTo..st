@@ -1,4 +1,4 @@
-private
+private - customer
 validateLast: aString ComparedTo: aString2
 	"validate new last name is diff from what it replaces, and Transcript error if problem"
 
